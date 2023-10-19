@@ -1,7 +1,10 @@
-# files
+# macos
 .DS_Store
 
-# dirs
-.idea/
+# ide
 .vscode/
-tmp/
+.idea/
+
+# others
+temp/
+todo/
